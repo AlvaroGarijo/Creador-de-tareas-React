@@ -2,12 +2,11 @@
     display:flex;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
     
 }
 
 .freecodecamp-logo{
     height: 150px;
-    border-radius: 100px;
+    border-radius: 50px;
     box-shadow: 1px 3px 8px 0px white;
 }
